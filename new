@@ -1,1 +1,2 @@
 git clone https://github.com/mfr-fr/sms-sender.git
+cd sms-sender
